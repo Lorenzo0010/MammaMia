@@ -1,7 +1,7 @@
 {
     "Siti": {
            "StreamingCommunity": {
-               "url": "https://streamingcommunity.paris",
+               "url": "https://streaming-community.prof",
                "SC_ForwardProxy": "0",
                "SC_PROXY": "0",
                "VX_ForwardProxy": "0",
@@ -13,7 +13,7 @@
                "enabled": "1"
            },
            "Tantifilm":{
-               "url": "https://www.tanti.bond",
+               "url": "https://www.tantifilm.be",
                "TF_ForwardProxy": "0",
                "TF_PROXY": "0",
                "enabled": "1"
@@ -30,7 +30,7 @@
               "enabled":"1"
           },
           "CB01":{
-              "url":"https://cb01new.loan",
+              "url":"https://cineblog01.kaufen",
               "CB_PROXY":"0",
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
@@ -40,15 +40,15 @@
           "DDLStream":{
               "url":"https://ddlstreamitaly.co",
               "cookies" : {
-                  "ips4_device_key": null,
-                  "ips4_IPSSessionFront": null,
-                  "ips4_member_id": null,
-                  "ips4_login_key": null
+                  "ips4_device_key": "1496c03312d318b557ff53512202e757",
+                  "ips4_IPSSessionFront": "d9ace0029696972877e2a5e3614a333b",
+                  "ips4_member_id": "4030088",
+                  "ips4_login_key": "71a501781ba479dfb91b40147e637daf"
                   },
               "enabled":"1"
           },
           "Guardaserie":{
-              "url":"https://guardaserietv.mom",
+              "url":"https://guardaserie.meme",
               "enabled":"1",
               "GS_ForwardProxy":"0",
               "GS_PROXY":"0"
