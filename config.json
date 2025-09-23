@@ -37,13 +37,13 @@
           "Eurostreaming":{
             "url": "https://eurostreaming.garden",
             "enabled": "1",
-            "ES_ForwardProxy": "1",
+            "ES_ForwardProxy": "0",
             "ES_PROXY": "1"
           },  
           "Guardaflix":{
             "url": "https://guardaflix.live",
             "enabled": "1",
-            "GF_ForwardProxy": "1",
+            "GF_ForwardProxy": "0",
             "GF_PROXY": "1"
           },
           "Guardoserie":{
@@ -63,7 +63,7 @@
        "load_env": "1",
        "HOST": "0.0.0.0",
        "PORT": 8080,
-       "Name": "MammaMia",
+       "Name": "HTTPS",
        "Icon": "🍕️",
        "level": "info",
        "Global_Proxy": "0"
