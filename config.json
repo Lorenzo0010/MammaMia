@@ -37,13 +37,13 @@
           "Eurostreaming":{
             "url": "https://eurostreaming.garden",
             "enabled": "1",
-            "ES_ForwardProxy": "0",
+            "ES_ForwardProxy": "1",
             "ES_PROXY": "1"
           },  
           "Guardaflix":{
             "url": "https://guardaflix.live",
             "enabled": "1",
-            "GF_ForwardProxy": "0",
+            "GF_ForwardProxy": "1",
             "GF_PROXY": "1"
           },
           "Guardoserie":{
