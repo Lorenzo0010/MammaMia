@@ -16,7 +16,7 @@
           },
           "CB01":{
               "url": "https://cb01net.cam",
-              "CB_PROXY":"0",
+              "CB_PROXY":"1",
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
               "MX_PROXY":"0",
@@ -38,13 +38,13 @@
             "url": "https://eurostreamings.vip/",
             "enabled": "1",
             "ES_ForwardProxy": "0",
-            "ES_PROXY": "0"
+            "ES_PROXY": "1"
           },  
           "Guardaflix":{
             "url": "https://guardaflix.wtf",
             "enabled": "1",
             "GF_ForwardProxy": "0",
-            "GF_PROXY": "0"
+            "GF_PROXY": "1"
           },
           "Guardoserie":{
             "url": "https://guardoserie.wtf",
