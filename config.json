@@ -38,7 +38,7 @@
             "url": "https://eurostreamings.vip/",
             "enabled": "1",
             "ES_ForwardProxy": "0",
-            "ES_PROXY": "0"
+            "ES_PROXY": "1"
           },  
           "Guardaflix":{
             "url": "https://guardaflix.wtf",
