@@ -1,4 +1,6 @@
-
+HTML = """
+uagdnFGNufnhoywgfenufeynhO9FUYN9ufynUFEONYPifunpo8YEIFNP
+"""
 HTML = """
 <!DOCTYPE html>
 <html>
