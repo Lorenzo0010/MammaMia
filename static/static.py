@@ -1,4 +1,3 @@
-# static.py
 
 HTML = """
 <!DOCTYPE html>
